@@ -1,0 +1,173 @@
+Task Setup Output
+[
+  {
+    id: '0.0.49353363',
+    privateKey: 'f05c3c1c26ac79a87f3cd3f8d9b1d249e2da9db076983f546a8dd1976f97c3ec',
+    publicKey: '82696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f'
+  },
+  {
+    id: '0.0.49353364',
+    privateKey: 'f3ebedb90d385b60131b6687f75613accbbb192b5534064575b6e9105abba5ea',
+    publicKey: '07673daf96cddaf8f4f5ae78df768e100840a5de3d73dade8e8185b168b2a361'
+  },
+  {
+    id: '0.0.49353365',
+    privateKey: '2221bacecf1255277183886469a6f9ac41d2d7873066ab6815083f825f0b756c',
+    publicKey: 'b4f2ff4cd9c43790cf3d132e1db1f22697ceb46574f5634faf8c6ea67b33edcc'
+  },
+  {
+    id: '0.0.49353366',
+    privateKey: 'c1729bd05a9fb30672132bc3a0cc1c83ae5c66f7749f3ef4bff59066c2d06c4a',
+    publicKey: '3ec738418871207f9624c28cc6fba8b00c578ac5380c4ad4b5ef521e1a866894'
+  },
+  {
+    id: '0.0.49353367',
+    privateKey: '726fdfccf5db268e53865c7f147b24bd089d3516bd49f8c1e25238c23bd8966b',
+    publicKey: '7b59b1f115011d06a66b5bb708a34c2f7fa3513fd7204954c209a935024915af'
+  }
+]
+
+
+Task Consensus Service Output:
+
+Your topic ID is: 0.0.49354038
+Message receipt:
+{
+  "status": {
+    "_code": 22
+  },
+  "accountId": null,
+  "fileId": null,
+  "contractId": null,
+  "topicId": null,
+  "tokenId": null,
+  "scheduleId": null,
+  "exchangeRate": {
+    "hbars": 30000,
+    "cents": 183378,
+    "expirationTime": "2023-01-20T13:00:00.000Z",
+    "exchangeRateInCents": 6.1126
+  },
+  "topicSequenceNumber": {
+    "low": 1,
+    "high": 0,
+    "unsigned": false
+  },
+  "topicRunningHash": {
+    "0": 233,
+    "1": 35,
+    "2": 150,
+    "3": 31,
+    "4": 202,
+    "5": 223,
+    "6": 245,
+    "7": 198,
+    "8": 177,
+    "9": 185,
+    "10": 228,
+    "11": 173,
+    "12": 251,
+    "13": 67,
+    "14": 8,
+    "15": 76,
+    "16": 129,
+    "17": 157,
+    "18": 141,
+    "19": 110,
+    "20": 99,
+    "21": 99,
+    "22": 194,
+    "23": 98,
+    "24": 170,
+    "25": 165,
+    "26": 210,
+    "27": 141,
+    "28": 174,
+    "29": 81,
+    "30": 110,
+    "31": 27,
+    "32": 28,
+    "33": 166,
+    "34": 84,
+    "35": 62,
+    "36": 191,
+    "37": 74,
+    "38": 169,
+    "39": 183,
+    "40": 120,
+    "41": 122,
+    "42": 168,
+    "43": 29,
+    "44": 59,
+    "45": 46,
+    "46": 124,
+    "47": 189
+  },
+  "totalSupply": {
+    "low": 0,
+    "high": 0,
+    "unsigned": false
+  },
+  "scheduledTransactionId": null,
+  "serials": [],
+  "duplicates": [],
+  "children": []
+}
+The message transaction status is: SUCCESS
+Link to topic: https://hashscan.io/testnet/topic/0.0.49354038
+13:27:53 GMT+0100 (Central European Standard Time)
+
+Task Multi Signature Output:
+- Account 0.0.49353363: 665.83299331 ℏ
+- Account 0.0.49353364: 659.32860351 ℏ
+- Account 0.0.49353365: 666 ℏ
+- Account 0.0.49353363: 655.83299331 ℏ
+- Account 0.0.49353364: 659.32695934 ℏ
+- Account 0.0.49353365: 676 ℏ
+
+Task Sheduled Transaction Output:
+Serialized transaction:  0ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018051880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f12000ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018081880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f12000ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018091880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f12000ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018041880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f12000ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018071880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f12000ac7012ac4010abf010a1a0a0b08dfb6aa9e06108fc7f6591209080010001893a5c417180012060800100018031880cab5ee01220208783200d2028b010a350880c2d72f12004a2c0a2a0a130a09080010001893a5c41710ffa7d6b90718000a130a09080010001894a5c4171080a8d6b9071800122e546869732069732061207265616c6c7920636f6f6c207363686564756c6564207472616e73616374696f6e2065691a22122082696c04cf09330232583decc63818109b234cb420ca0316ada39f2e6984c75f1200
+Scheduled transaction successfully executed Status { _code: 22 }
+
+Token Task Output:
+Created Token ID: 0.0.49354759 
+
+- Token association with account 0.0.49353365: SUCCESS 
+
+- Token association with account 0.0.49353366: SUCCESS 
+
+PrivateKey {
+  _key: PrivateKey {
+    _key: Ed25519PrivateKey { _keyPair: [Object], _chainCode: null }
+  }
+}
+- Sender balance: 35050 units of token ID 0.0.49354759
+- Receiver balance: 0 units of token ID 0.0.49354759
+Token transfer to 0.0.49353365: SUCCESS 
+
+Sender balance: 32525 units of token ID 0.0.49354759
+Receiver balance: 2525 units of token ID 0.0.49354759
+PrivateKey {
+  _key: PrivateKey {
+    _key: Ed25519PrivateKey { _keyPair: [Object], _chainCode: null }
+  }
+}
+- Sender balance: 32525 units of token ID 0.0.49354759
+- Receiver balance: 0 units of token ID 0.0.49354759
+Token transfer to 0.0.49353366: SUCCESS 
+
+Sender balance: 30000 units of token ID 0.0.49354759
+Receiver balance: 2525 units of token ID 0.0.49354759
+The transaction consensus status SUCCESS
+undefined
+/Users/blipovac/Projects/tha-hedera-course/Account/node_modules/@hashgraph/sdk/lib/client/Client.cjs:306
+    return this.setOperatorWith(accountId, key.publicKey, message => Promise.resolve(key.sign(message)));
+                                               ^
+
+TypeError: Cannot read properties of undefined (reading 'publicKey')
+    at NodeClient.setOperator (/Users/blipovac/Projects/tha-hedera-course/Account/node_modules/@hashgraph/sdk/lib/client/Client.cjs:306:48)
+    at sendTokens (/Users/blipovac/Projects/tha-hedera-course/Account/scripts/tokenTask.js:70:12)
+    at main (/Users/blipovac/Projects/tha-hedera-course/Account/scripts/tokenTask.js:160:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.9.0
